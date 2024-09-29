@@ -9,6 +9,7 @@ env/
 ENV/
 .venv/
 .env
+project_folder/
 
 # Distribution / packaging
 build/
